@@ -1,1 +1,1 @@
-Hello and welcome to my Github Page where I am sharing the project based on the ATM Machine using the Java 
+Hello and welcome to my Github Page where I am sharing the project based on the Number Guessing Game using the Java 
